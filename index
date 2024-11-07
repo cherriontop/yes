@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <!-- NOTE: PLEASE REPLACE ALL PLACEHOLDERS -->
+    <head>
+        <link rel="icon" type="image/png" href="placeholder_apple.png"> 
+        <title>placeholder</title>
+
+        <!-- DO NOT USE INTERNAL CSS, USE THE EXTERNAL ONE HERE ↓↓↓ -->
+        <link rel="stylesheet" type="text/css" href="stylesheet.css">  
+    </head>
+
+    <header> <!-- HEADERS -->
+        <div class="trueHeader mainUI debugDiv">
+            <img src="placeholder_apple.png" alt="A Red Apple" width="20" height="20">
+            <h1>Lorem ipsum (title)</h1>
+        </div>
+    </header>
+
+    <body> <!-- BODY -->
+        <div class="mainUI debugDiv">
+            
+            <article> <!-- article header -->
+                <header class="articleElement headerElement">
+                    <h1>Welcome</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. At quia assumenda facere doloremque similique a est quaerat, aliquam nemo ipsum suscipit repudiandae fugiat cupiditate, sapiente non animi velit porro voluptates!</p>
+                </header>
+            </article>
+
+            <article> <!-- article -->
+                <section class="articleElement mainSection">
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus eius assumenda fugit non illum aperiam corrupti, cum ad reprehenderit quas obcaecati delectus eum quo molestias magnam dolore earum, autem expedita.</p>
+                </section>
+
+                <aside class="articleElement sideElement"> <!--sidebar-->
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, amet? Officia, expedita ea. Quam maxime eum odit ut culpa est optio laboriosam! At quos aliquam sint ipsam accusantium iste dolor.</p>
+                </aside>
+                
+            </article>
+        </div>
+    </body>
+    
+    <footer> <!-- FOOTER -->
+        <div id="footerText">
+            <br>
+            Copyright © 2024 Group 2, Inc. All Rights Reserved
+        </div>
+    </footer>
+</html>
